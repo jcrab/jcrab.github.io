@@ -1,4 +1,4 @@
-# John D. Crabtree, Ph.D.
+# John Crabtree, PhD
 Professor  
 Computer Science & Information Systems  
 Sanders College of Business & Technology  
