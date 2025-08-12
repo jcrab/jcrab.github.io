@@ -4,7 +4,7 @@ Computer Science & Information Systems
 Sanders College of Business & Technology  
 University of North Alabama  
 
-|    Spring 2025 Office Hours    |
+|    Fall 2025 Office Hours    |
 | ------------------------------ |
 | **T**   1:45 pm to 4:15 pm |
 | **W**   1:15 pm to 4:15 pm |
